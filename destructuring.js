@@ -133,8 +133,6 @@ function numberGroups ({a, b, c}){
   }
 
   return arr;
-
-
 }
 
 
